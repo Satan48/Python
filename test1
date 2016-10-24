@@ -1,0 +1,2 @@
+test number = input('just test')
+print (test)
